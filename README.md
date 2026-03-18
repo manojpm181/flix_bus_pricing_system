@@ -86,8 +86,8 @@ flix_pricing_system/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/manojpm181/flix-pricing-system.git
-cd flix-pricing-system
+git clone https://github.com/manojpm181/flix_bus_pricing_system.git
+cd flix_bus_pricing_system
 ```
 
 ---
@@ -135,7 +135,7 @@ streamlit run app/streamlit_app.py
 ```
 http://localhost:8501
 ```
-
+https://manojpm181-flix-pricing-system-appstreamlit-app-kanoej.streamlit.app/
 ---
 
 ## 📊 Dashboard Preview
@@ -219,7 +219,19 @@ B.E. CSE
 manojpoojari1511@gmail.com
 
 ---
+## Results
+<img width="615" height="586" alt="image" src="https://github.com/user-attachments/assets/fc292a3d-4d43-4675-ae36-abc5d431f0f1" />
+<img width="1915" height="690" alt="Screenshot 2026-03-17 175533" src="https://github.com/user-attachments/assets/99dd05fa-3fdd-4a53-8036-7ba6a5f74060" />
+<img width="1497" height="621" alt="Screenshot 2026-03-17 175547" src="https://github.com/user-attachments/assets/ed3cf953-144a-403a-ad60-8dea7ed7c030" />
+<img width="1480" height="558" alt="Screenshot 2026-03-17 175603" src="https://github.com/user-attachments/assets/f8341544-06bf-43fb-873f-e26e7dbf4581" />
+<img width="1434" height="562" alt="Screenshot 2026-03-17 175619" src="https://github.com/user-attachments/assets/aadc30e1-d34b-4552-b682-d181aaabc7e1" />
+<img width="1482" height="583" alt="Screenshot 2026-03-17 175629" src="https://github.com/user-attachments/assets/8f88966e-9ff8-4165-bff6-143570c7142c" />
+<img width="1472" height="530" alt="Screenshot 2026-03-17 175635" src="https://github.com/user-attachments/assets/e5c3076f-a86a-4e7e-b47b-07371b7b7da7" />
+<img width="1519" height="549" alt="Screenshot 2026-03-17 175642" src="https://github.com/user-attachments/assets/56a3bad7-be18-4f9c-b195-1dac7dafda60" />
+<img width="1569" height="812" alt="Screenshot 2026-03-17 175702" src="https://github.com/user-attachments/assets/487b2ea0-d773-432a-9ba8-1bd59fed6640" />
 
+
+---
 ## 🏁 Conclusion
 
 This project demonstrates:
@@ -233,4 +245,4 @@ This project demonstrates:
 ⭐ If you found this useful, give it a star!
 
 
-https://manojpm181-flix-pricing-system-appstreamlit-app-kanoej.streamlit.app/
+
